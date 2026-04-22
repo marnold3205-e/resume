@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Fixed minor edge case in input handling
 - Cross-checked behaviour against spec
+
+## 2026-04-22
+- Ran linter, applied auto-fixes
